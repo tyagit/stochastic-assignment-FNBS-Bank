@@ -3,9 +3,9 @@
 
 The First New Brunswick Savings (FNBS) bank opens at 8am and closes at 4pm. The time between arrivals
 for the customers follow the distributions given below:
-• Exponential 5 minutes between 8am & 11am
-• Exponential 4 minutes between 11am & 1pm
-• Exponential 6 minutes between 1pm & 4pm
+- Exponential 5 minutes between 8am & 11am
+- Exponential 4 minutes between 11am & 1pm
+- Exponential 6 minutes between 1pm & 4pm
 
 Customers come to the bank for various services. Past data has shown that 50% of the customers come to
 withdraw money, 30% come to deposit money and 20% come for other banking services (this is true for all
